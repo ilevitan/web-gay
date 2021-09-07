@@ -27,5 +27,12 @@ body {
   border-radius: 15px;
   color: white;
   text-align: center;
-  margin-left: 650px;
+  margin-left: 610px;
+
+  text-align: center;
+}
+.gop1 {
+  width: 200px;
+  border-radius: 15%;
+  margin-top: 10px;
 }
