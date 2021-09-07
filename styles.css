@@ -1,3 +1,18 @@
 body {
-
+  background-image: url('https://cdn.jsdelivr.net/gh/ilevitan/web-gay@master/gay1.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.frog {
+  position: absolute;
+  top: 20%;
+}
+.div {
+  background-color: black;
+  margin-top: 100px;
+  width: 500px;
+  height: 300px;
+  border-radius: 15px;
+  color: white;
+  text-align: center;
 }
