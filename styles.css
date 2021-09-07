@@ -1,16 +1,28 @@
 body {
-  background-image: url('https://cdn.jsdelivr.net/gh/ilevitan/web-gay@master/gay1.png');
+  background-image: url(https://i.ytimg.com/vi/oNX70xlvCJs/maxresdefault.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
+  background-attachment: fixed;
 }
 .frog {
-  position: absolute;
-  top: 20%;
+  border-radius: 15%;
+  width: 200px;
+  margin-top: 10px;
 }
-.div {
+.div1 {
   background-color: black;
   margin-top: 100px;
-  width: 500px;
+  width: 600px;
+  height: 300px;
+  border-radius: 15px;
+  color: white;
+  text-align: center;
+}
+
+.div2 {
+  background-color: black;
+  margin-top: 100px;
+  width: 600px;
   height: 300px;
   border-radius: 15px;
   color: white;
