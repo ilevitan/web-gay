@@ -62,3 +62,14 @@ body {
 
   text-align: center;
 }
+
+.gop2 {
+  width: 200px;
+  border-radius: 100%;
+}
+
+.div5 {
+  width: 5px;
+  background-color: red;
+  height: 5px;
+}
